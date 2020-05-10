@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SimplilearnApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Devops Assessment Project");
 		SpringApplication.run(SimplilearnApplication.class, args);
 	}
 
